@@ -7,7 +7,7 @@ app.get("/",function(req,res){
 	res.send("hi there");
 });
 
-app.listen(8080,function(){
+app.listen(3000,function(){
 	console.log("Working @ 8080");
 });
 
